@@ -1,0 +1,21 @@
+﻿  main.c
+C:\Users\DarthVader\Documents\HTW\Multicore-GPU-Computing\Uebungen\Matrix\main.c(25,16): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\DarthVader\Documents\HTW\Multicore-GPU-Computing\Uebungen\Matrix\main.c(57,16): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\DarthVader\Documents\HTW\Multicore-GPU-Computing\Uebungen\Matrix\main.c(58,21): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\DarthVader\Documents\HTW\Multicore-GPU-Computing\Uebungen\Matrix\main.c(82,17): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\DarthVader\Documents\HTW\Multicore-GPU-Computing\Uebungen\Matrix\main.c(87,19): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\DarthVader\Documents\HTW\Multicore-GPU-Computing\Uebungen\Matrix\main.c(94,17): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\DarthVader\Documents\HTW\Multicore-GPU-Computing\Uebungen\Matrix\main.c(99,19): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\DarthVader\Documents\HTW\Multicore-GPU-Computing\Uebungen\Matrix\main.c(106,17): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\DarthVader\Documents\HTW\Multicore-GPU-Computing\Uebungen\Matrix\main.c(111,19): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\DarthVader\Documents\HTW\Multicore-GPU-Computing\Uebungen\Matrix\main.c(118,17): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\DarthVader\Documents\HTW\Multicore-GPU-Computing\Uebungen\Matrix\main.c(123,19): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\DarthVader\Documents\HTW\Multicore-GPU-Computing\Uebungen\Matrix\main.c(140,18): warning C4013: "omp_set_schedule" undefiniert; Annahme: extern mit Rückgabetyp int
+C:\Users\DarthVader\Documents\HTW\Multicore-GPU-Computing\Uebungen\Matrix\main.c(148,16): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\DarthVader\Documents\HTW\Multicore-GPU-Computing\Uebungen\Matrix\main.c(153,18): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\DarthVader\Documents\HTW\Multicore-GPU-Computing\Uebungen\Matrix\main.c(176,80): warning C4244: "Funktion": Konvertierung von "unsigned __int64" in "double", möglicher Datenverlust
+C:\Users\DarthVader\Documents\HTW\Multicore-GPU-Computing\Uebungen\Matrix\main.c(183,59): warning C4244: "Funktion": Konvertierung von "unsigned __int64" in "double", möglicher Datenverlust
+C:\Users\DarthVader\Documents\HTW\Multicore-GPU-Computing\Uebungen\Matrix\main.c(186,9): warning C4244: "return": Konvertierung von "unsigned __int64" in "unsigned int", möglicher Datenverlust
+C:\Users\DarthVader\Documents\HTW\Multicore-GPU-Computing\Uebungen\Matrix\main.c(172,41): warning C4244: "Initialisierung": Konvertierung von "double" in "unsigned __int64", möglicher Datenverlust
+main.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "omp_set_schedule" in Funktion "multiplyMatrixSchedule2".
+C:\Users\DarthVader\Documents\HTW\Multicore-GPU-Computing\Uebungen\Matrix\x64\Debug\Matrix.exe : fatal error LNK1120: 1 nicht aufgelöste Externe
